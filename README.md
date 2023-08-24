@@ -1,1 +1,1 @@
-# ecommerce-xstate
+# Serverless e-Commerce App
